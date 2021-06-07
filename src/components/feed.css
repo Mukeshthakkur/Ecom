@@ -1,0 +1,13 @@
+.feed{
+    text-align: center;
+}
+
+.banner{
+    width: 100%;
+}
+
+.latest__container{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 100px;
+}
