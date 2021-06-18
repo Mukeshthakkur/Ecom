@@ -12,6 +12,10 @@ function Navbar() {
         </Link>
 
         <div className="Navbar__option">
+          <NavLink className="navtag" to="/">
+            Home
+          </NavLink>
+
           <NavLink className="navtag" to="/scholarship">
             Scholarship
           </NavLink>
@@ -26,6 +30,10 @@ function Navbar() {
 
           <NavLink className="navtag" to="/oppertunity">
             Oppertunity
+          </NavLink>
+
+          <NavLink className="navtag" to="/addpost">
+            <button className="btn__plus btn">+</button>
           </NavLink>
         </div>
       </div>

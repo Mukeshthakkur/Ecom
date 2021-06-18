@@ -1,23 +1,23 @@
-.post{
+.postwid{
     margin: 10px;
 }
 
-.post__img{
+.postwid__img{
     background-color: grey;
     width: 200px;
     height: 120px;
 }
 
-.post__body{
+.postwid__body{
     width: 200px;
 }
 
 
-.post__body>h4{
+.postwid__body>h4{
     color: rgb(41, 98, 202);
     text-align: center;
 }
 
-.post__body>h5{
+.postwid__body>h5{
     color: rgb(177, 100, 100);
 }

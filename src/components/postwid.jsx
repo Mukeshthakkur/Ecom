@@ -1,11 +1,11 @@
 import React from "react";
-import "./post.css";
+import "./postwid.css";
 
-function post() {
+function postwid() {
   return (
-    <div className="post">
-      <div className="post__img"></div>
-      <div className="post__body">
+    <div className="postwid">
+      <div className="postwid__img"></div>
+      <div className="postwid__body">
         <h4>Fully funded Scholarship USA 2022</h4>
         <p>
           It is a fully funded masters scholarship for the students of pakistan.
@@ -16,4 +16,5 @@ function post() {
   );
 }
 
-export default post;
+export default postwid;
+

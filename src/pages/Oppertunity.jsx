@@ -1,15 +1,11 @@
-import React from 'react';
-import NavBar from './navBar';
-
-
+import React from "react";
 
 function Oppertunity() {
-    return (
-        <div>
-            <NavBar /> 
-            <h2>Oppertunity page is here</h2>
-        </div>
-    )
+  return (
+    <div>
+      <h2>Oppertunity page is here</h2>
+    </div>
+  );
 }
 
-export default Oppertunity
+export default Oppertunity;
